@@ -1,18 +1,19 @@
-## Getting Started
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+# Project Akhir PBO
 
-## Folder Structure
+Project ini merupakan Tugas Final dari Mata Kuliah Pemrograman Berorientasi Objek.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+## Tools
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+Project ini menggunakan beberapa tools yaitu :
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Java
+- JavaFX
+- SceneBuilder
 
-## Dependency Management
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Authors
+
+- [@syaarifhd](https://www.github.com/syaarifhd)
+
